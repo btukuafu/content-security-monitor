@@ -1,2 +1,2 @@
 # content-security-monitor
-A content security monitoring tool
+I'm building a tool that monitors the content delivery path and detects suspicious access to protected media.
